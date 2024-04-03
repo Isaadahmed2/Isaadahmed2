@@ -1,14 +1,14 @@
 # Welcome to [Saad Ahmed]'s GitHub Profile! 👋
 
-Hey there! Welcome to my GitHub profile. I'm [Your Name], a [Your Profession/Interest]. Here you'll find a variety of projects I've worked on, ranging from personal projects to contributions in open source.
+Hey there! Welcome to my GitHub profile. I'm [Saad Ahmed], a [AI Developer]. Here you'll find a variety of projects I've worked on, ranging from personal projects to contributions in open source.
 
 ## 🌱 Currently Learning
 
 I'm always eager to learn new things. Currently, I'm focusing on:
 
-# - AI / ML 
-# - Langchain/ llamaIndex/ Hugging Face/ RoboFlow/ Vocode
-# - Flask/ Fast API
+### - AI / ML 
+### - Langchain/ llamaIndex/ Hugging Face/ RoboFlow/ Vocode
+### - Flask/ Fast API
 
 Feel free to reach out if you have any resources or tips related to these topics!
 
@@ -23,8 +23,8 @@ Here are some of the projects I'm proud of:
 
 I'm always open to new opportunities and collaborations. You can reach out to me through:
 
-- Email: [Your Email Address](mailto:erc.saadi@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/isaadahmed444/)
+- Email: [mailto:erc.saadi@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/isaadahmed444/]
 
 
 ## 💬 Fun Facts
