@@ -1,6 +1,6 @@
-# Welcome to [Saad Ahmed]'s GitHub Profile! 👋
+# Welcome to Saad Ahmed's GitHub Profile! 👋
 
-Hey there! Welcome to my GitHub profile. I'm [Saad Ahmed], a [AI Developer]. Here you'll find a variety of projects I've worked on, ranging from personal projects to contributions in open source.
+Hey there! Welcome to my GitHub profile. I'm Saad Ahmed, a AI Developer. Here you'll find a variety of projects I've worked on, ranging from personal projects to contributions in open source.
 
 ## 🌱 Currently Learning
 
